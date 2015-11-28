@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Paul Hero: End Polio Now!</title>
+	<founding-date>2012</founding-date>
+	<website>www.criosdevs.com</website>
+	<based-in>Mendoza, Argentina, 2012</based-in>
+	
+	<press-contact>contact@criosdevs.com</press-contact>
+
+	<socials>
+		<social>
+			<name>twitter.com/CriosDevs</name>
+			<link>www.twitter.com/CriosDevs</link>
+		</social>
+		<social>
+			<name>facebook.com/PaulHeroEPN</name>
+			<link>www.facebook.com/PaulHeroepn</link>
+		</social>
+		<social>
+			<name>facebook.com/CriosDevs</name>
+			<link>www.facebook.com/CriosDevs</link>
+		</social>
+
+	</socials>
+
+	<description>	
+		Paul Hero es un juego plataformero de aventuras donde tomarás el papel del intrépido Paul sorteando obstáculos, poniendo a prueba tus reflejos, desafiando las leyes de la gravedad y entregando los medicamentos para erradicar una horrible enfermedad del mundo ¡Supera los desafíos y ayuda a la lucha contra la polio!
+	</description>	
+		
+	<histories>
+		
+		<history>
+			<header>Pon a prueba tus reflejos y supera los desafíos en este puzzle plataformero de aventura 2D. Embárcate junto a Paul en sus aventuras y combate la polio entregando los medicamentos enviados por Rotary International.</header>
+		</history>
+		
+		<history>
+			<text>Rotary es una organización que, entre sus objetivos principales, está la de erradicar la polio del mundo, una horrible enfermedad. Hay una isla del Pacífico donde aún existe la enfermedad pero que nadie se anima a ir, ya que los que fueron...nunca han vuelto.  </text>
+		</history>
+		
+		<history>
+			<text>La organización contacta a Paul, un aventurero que siempre busca tiempo para ayudar a quien lo necesita y acepta la misión sin titubear, por lo que sube a un avión lleno de cajas con vacunas contra la polio. Luego de unas horas de vuelo divisa la isla, pero algo entre las sombras con una máscara en forma de calavera levanta sus manos y un rayo cae de la nada sobre el avión.</text>
+		</history>
+		
+		<history>
+			<text>Paul por segundos logra salir y abrir su paracaídas mientras ve cómo las diferentes caja con la vacuna caen en diferente sitios de la isla, al aterrizar comienza a notar que hay diferentes trampas para mantener a raya los de afuera y que nadie pueda ayudar a los habitantes ¡Paul debe poder encontrar la manera de entregar las vacunas y salir de la isla con vida!</text>
+		</history>
+		
+		<history>						
+			<header>Cómo surgió PaulHero: End Polio Now!</header>
+			<text>A principios del 2014, Rotary International decidió nuclear a un conjunto de clubes en Argentina con el nombre Rotary Distrito 4849. Con motivo de expandir el trabajo del Rotary en todo el mundo, el Distrito 4849 se contactó con Crios Devs, con la finalidad de realizar un videojuego que sea gratuito, accesible, divertido, atrayendo la atención del público hacia la organización y su lucha contra la erradicación de la  poliomielitis.</text>
+		</history>
+		
+		<history>						
+			<text>La primera parte del juego se terminó de desarrollar a principios de Marzo coincidiendo con la llegada del presidente de Rotary International (2014-2015) Gary Huang.</text>
+		</history>
+	
+		<history>
+			<header>Datos técnicos</header>
+			<text>100% Gratis y web</text>
+		</history>
+
+		<history>
+			<text>¡Más 60 niveles divididos en 6 sectores llenos de desafíos y obstáculos!</text>
+		</history>
+		
+		<history>
+			<text>Más de 6 horas de juego para terminarlo.</text>
+		</history>
+		
+		<history>
+			<text>¡Primer videojuego oficial de Rotary International de la historia!</text>
+		</history>
+		
+		<history>
+			<text>La caja de medicamentos sirven en algunos casos para protegerse o como plataforma.</text>
+		</history>
+		
+		<history>
+			<text>Soundtrack original compuesto de forma exclusiva desde partituras.</text>
+		</history>
+		
+		<history>
+			<text>Para todas las edades y géneros, con una curva de dificultad equilibrada.</text>
+		</history>
+		
+		<history>
+			<text>Gratis y web.</text>
+		</history>
+				
+		<history>
+			<text>Ayuda a difundir e informar una actividad humanitaria.</text>
+		</history>
+		
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name>Paul Hero: End Polio Now! (Segundo Trailer)</name>
+			<youtube>5su8aT-54dA</youtube>
+		</trailer>
+		<trailer>
+			<name>Paul Hero: End Polio Now! (Primer Trailer)</name>
+			<youtube>iVI6pgqivEw</youtube>
+		</trailer>
+	</trailers>		
+	
+	<awards>
+		<award>
+			<description>Diploma de Honor por la participación en el desarrollo y presentación, del primer videojuego de Rotary International, "Paul Hero: End Polio Now!"</description>
+			<info>Abril 2015</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>Entrevista Gameindustria, España</description>
+			<name>Gamedustria</name>
+			<website>www.Gamedustria.com</website>
+			<link>http://gamedustria.com/2015/entrevistamos-a-crios-devs-un-estudio-creador-argentino</link>
+		</quote>
+	</quotes>	
+	
+	<additionals>
+	
+		<additional>
+			<title>GameJolt</title>
+			<link>www.gamejolt.com/games/platformer/paul-hero-end-polio-now/36432/</link>
+		</additional>
+
+		<additional>
+			<title>Wibbly</title>
+			<link>http://wibbly.net/tienda/paul-hero-end-polio-now/</link>
+		</additional>
+		
+		<additional>
+			<title>Newground</title>
+			<link>http://www.newgrounds.com/portal/view/663418</link>
+		</additional>
+		
+		<additional>
+			<title>Kongregate</title>
+			<link>http://www.kongregate.com/games/CriosDevs/paul-hero-end-polio-now</link>
+		</additional>
+		
+	</additionals>
+	
+	<credits>
+	
+		<credit>
+			<person>Julián Muñoz Velázquez (Momfus Arboleo)</person>
+			<website>https://twitter.com/Momfus</website>			
+			<role>Programador, Game Designer</role>
+		</credit>
+		<credit>
+			<person>Javier Bravin (Jafi)</person>
+			<website>https://twitter.com/Jafidiesel</website>
+			<role>Level Designer, Web Developer, Game Designer</role>
+		</credit>
+		<credit>
+			<person>Julia Villanueva</person>
+			<role>Diseñadora gráfica, Pixel art</role>
+		</credit>		
+		
+		<credit>
+			<person>Mariel Astorga</person>
+			<role>Diseñadora gráfica, Concept art, Promotional art</role>
+		</credit>
+
+		<credit>
+			<person>Álvaro Cristóbal Stöckle Márquez</person>
+			<role>Music and Sound Effects</role>
+		</credit>		
+		
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Contacto</name>
+			<mail>contact@criosdevs.com</mail>
+		</contact>
+		
+		<contact>
+			<name>Paul Hero en Facebook</name>
+			<link>www.facebook.com/PaulHeroepn</link>
+		</contact>				<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/CriosDevs</link>
+		</contact>
+		
+		<contact>			
+			<name>Facebook</name>	
+			<link>www.facebook.com/CriosDevs</link>
+		</contact>		
+		
+		<contact>
+			<name>Web</name>
+			<link>www.criosdevs.com</link>
+		</contact>
+	</contacts>
+</game>

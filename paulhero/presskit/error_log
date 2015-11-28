@@ -1,0 +1,66 @@
+[04-Jun-2015 18:19:11 America/New_York] PHP Notice:  Use of undefined constant COMPANY_PHONE - assumed 'COMPANY_PHONE' in /home/javi18a/public_html/paulhero/index.php on line 323
+[04-Jun-2015 18:20:04 America/New_York] PHP Notice:  Use of undefined constant COMPANY_PHONE - assumed 'COMPANY_PHONE' in /home/javi18a/public_html/paulhero/index.php on line 323
+[04-Jun-2015 18:20:10 America/New_York] PHP Notice:  Undefined index: p in /home/javi18a/public_html/paulhero/create.php on line 3
+[04-Jun-2015 18:20:17 America/New_York] PHP Notice:  Undefined index: p in /home/javi18a/public_html/paulhero/create.php on line 3
+[04-Jun-2015 18:20:18 America/New_York] PHP Notice:  Use of undefined constant COMPANY_PHONE - assumed 'COMPANY_PHONE' in /home/javi18a/public_html/paulhero/index.php on line 323
+[04-Jun-2015 18:20:22 America/New_York] PHP Notice:  Undefined index: p in /home/javi18a/public_html/paulhero/create.php on line 3
+[04-Jun-2015 18:20:27 America/New_York] PHP Notice:  Undefined index: p in /home/javi18a/public_html/paulhero/create.php on line 3
+[04-Jun-2015 18:20:32 America/New_York] PHP Notice:  Undefined index: p in /home/javi18a/public_html/paulhero/create.php on line 3
+[04-Jun-2015 18:20:37 America/New_York] PHP Notice:  Undefined index: p in /home/javi18a/public_html/paulhero/create.php on line 3
+[04-Jun-2015 18:20:42 America/New_York] PHP Notice:  Undefined index: p in /home/javi18a/public_html/paulhero/create.php on line 3
+[04-Jun-2015 18:20:47 America/New_York] PHP Notice:  Undefined index: p in /home/javi18a/public_html/paulhero/create.php on line 3
+[04-Jun-2015 18:20:52 America/New_York] PHP Notice:  Undefined index: p in /home/javi18a/public_html/paulhero/create.php on line 3
+[04-Jun-2015 18:20:56 America/New_York] PHP Notice:  Use of undefined constant COMPANY_PHONE - assumed 'COMPANY_PHONE' in /home/javi18a/public_html/paulhero/index.php on line 323
+[04-Jun-2015 18:22:53 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 311
+[04-Jun-2015 18:22:53 America/New_York] PHP Notice:  Use of undefined constant COMPANY_PHONE - assumed 'COMPANY_PHONE' in /home/javi18a/public_html/paulhero/index.php on line 323
+[04-Jun-2015 18:27:17 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 311
+[04-Jun-2015 18:27:17 America/New_York] PHP Notice:  Use of undefined constant COMPANY_PHONE - assumed 'COMPANY_PHONE' in /home/javi18a/public_html/paulhero/index.php on line 323
+[04-Jun-2015 18:27:36 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 311
+[04-Jun-2015 18:27:36 America/New_York] PHP Notice:  Use of undefined constant COMPANY_PHONE - assumed 'COMPANY_PHONE' in /home/javi18a/public_html/paulhero/index.php on line 323
+[04-Jun-2015 18:28:46 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 311
+[04-Jun-2015 18:28:46 America/New_York] PHP Notice:  Use of undefined constant COMPANY_PHONE - assumed 'COMPANY_PHONE' in /home/javi18a/public_html/paulhero/index.php on line 323
+[04-Jun-2015 18:41:22 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 311
+[04-Jun-2015 18:41:22 America/New_York] PHP Notice:  Use of undefined constant COMPANY_PHONE - assumed 'COMPANY_PHONE' in /home/javi18a/public_html/paulhero/index.php on line 323
+[04-Jun-2015 18:41:24 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 311
+[04-Jun-2015 18:41:24 America/New_York] PHP Notice:  Use of undefined constant COMPANY_PHONE - assumed 'COMPANY_PHONE' in /home/javi18a/public_html/paulhero/index.php on line 323
+[04-Jun-2015 18:42:03 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 311
+[04-Jun-2015 18:42:03 America/New_York] PHP Notice:  Use of undefined constant COMPANY_PHONE - assumed 'COMPANY_PHONE' in /home/javi18a/public_html/paulhero/index.php on line 323
+[05-Jun-2015 00:03:29 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 311
+[05-Jun-2015 00:03:29 America/New_York] PHP Notice:  Use of undefined constant COMPANY_PHONE - assumed 'COMPANY_PHONE' in /home/javi18a/public_html/paulhero/index.php on line 323
+[05-Jun-2015 10:17:15 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 311
+[05-Jun-2015 10:17:15 America/New_York] PHP Notice:  Use of undefined constant COMPANY_PHONE - assumed 'COMPANY_PHONE' in /home/javi18a/public_html/paulhero/index.php on line 323
+[05-Jun-2015 11:26:43 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 311
+[05-Jun-2015 11:26:43 America/New_York] PHP Notice:  Use of undefined constant COMPANY_PHONE - assumed 'COMPANY_PHONE' in /home/javi18a/public_html/paulhero/index.php on line 323
+[13-Jun-2015 11:47:05 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 311
+[13-Jun-2015 11:47:05 America/New_York] PHP Notice:  Use of undefined constant COMPANY_PHONE - assumed 'COMPANY_PHONE' in /home/javi18a/public_html/paulhero/index.php on line 323
+[20-Jun-2015 20:12:25 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 311
+[20-Jun-2015 20:12:25 America/New_York] PHP Notice:  Use of undefined constant COMPANY_PHONE - assumed 'COMPANY_PHONE' in /home/javi18a/public_html/paulhero/index.php on line 323
+[21-Jun-2015 19:50:27 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 311
+[21-Jun-2015 19:50:27 America/New_York] PHP Notice:  Use of undefined constant COMPANY_PHONE - assumed 'COMPANY_PHONE' in /home/javi18a/public_html/paulhero/index.php on line 323
+[14-Sep-2015 16:17:12 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 308
+[14-Sep-2015 16:19:00 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 308
+[14-Sep-2015 17:22:02 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 308
+[14-Sep-2015 17:24:42 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 308
+[14-Sep-2015 17:25:41 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 308
+[14-Sep-2015 20:16:02 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 308
+[14-Sep-2015 20:17:15 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 308
+[14-Sep-2015 20:18:14 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 308
+[14-Sep-2015 20:18:23 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 308
+[14-Sep-2015 20:18:44 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 308
+[14-Sep-2015 20:22:28 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 308
+[14-Sep-2015 20:27:30 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 308
+[14-Sep-2015 20:29:50 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/index.php on line 308
+[14-Sep-2015 20:49:18 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/presskit/index.php on line 308
+[14-Sep-2015 21:17:40 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/presskit/index.php on line 308
+[14-Sep-2015 21:20:45 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/presskit/index.php on line 308
+[14-Sep-2015 21:21:54 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/presskit/index.php on line 308
+[14-Sep-2015 21:22:35 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/presskit/index.php on line 308
+[14-Sep-2015 21:24:23 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/presskit/index.php on line 308
+[14-Sep-2015 21:26:14 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/presskit/index.php on line 308
+[14-Sep-2015 21:31:12 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/presskit/index.php on line 308
+[14-Sep-2015 21:31:39 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/presskit/index.php on line 308
+[14-Sep-2015 21:31:48 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/presskit/index.php on line 308
+[14-Sep-2015 21:32:24 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/presskit/index.php on line 308
+[14-Sep-2015 21:32:48 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/presskit/index.php on line 308
+[14-Sep-2015 21:36:06 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/presskit/index.php on line 308
+[14-Sep-2015 21:37:21 America/New_York] PHP Notice:  Undefined variable: address in /home/javi18a/public_html/paulhero/presskit/index.php on line 308

@@ -1,0 +1,50 @@
+<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+<channel>
+<itunes:author>
+<![CDATA[ Jafi Bravin ]]>
+</itunes:author>
+<title>
+<![CDATA[ Gamer Con Mate Podcast ]]>
+</title>
+<link>http://gamerconmate.blogspot.com.ar/</link>
+<language>es-ES</language>
+<description>
+<![CDATA[
+Bienvenidos al podcast de Gamer Con Mate Podcast, espacio donde exponemos nuestra filosofía fichinera con la compañía de un buen mate en forma de cuerdas vocales.
+ 
+ Pasen, escuchen y cuenten que tal les parecio a gamerconmate@gmail.com
+]]>
+</description>
+<generator>iVoox</generator>
+<image>
+<url>http://www.ivoox.com/canales/4361395708927gg.jpg</url>
+<title>
+<![CDATA[ Gamer Con Mate Podcast ]]>
+</title>
+<link>http://www.ivoox.com/</link>
+</image>
+<itunes:image href="http://www.ivoox.com/canales/4361395708927gg.jpg"/>
+<itunes:category text="Games & Hobbies">
+<itunes:category text="Video Games"/>
+</itunes:category>
+<item>
+<title>
+<![CDATA[ GCM - Podcast #3: GGJ 2014 ]]>
+</title>
+<link>
+http://www.ivoox.com/gcm-podcast-3-ggj-2014-audios-mp3_rf_2880896_1.html
+</link>
+<enclosure url="http://www.ivoox.com/gcm-podcast-3-ggj-2014_mf_2880896_1.mp3" type="audio/mpeg"/>
+<description>
+<![CDATA[
+Vuelven los mates, vuelve la filosofía gamer en formas de fichas podcastiles!
+ En esta nueva edición de nuestro ,aún joven, podcast volvemos con DOS entrevistas a desarrolladores independientes de Santa FE: Mariano Jorge Obeid (Killabunnies) y con Eliseo Viola.
+ 
+ Lo bueno, lo malo y lo hermoso de desarrollar un videojuego con ganas de querer partirte la cabeza contra un teclado Edition llamado Game Global Jam 2014.
+]]>
+</description>
+<pubDate>Sun, 02 Mar 14 00:38:23 +0200</pubDate>
+<itunes:duration>01:39:31</itunes:duration>
+</item>
+</channel>
+</rss>

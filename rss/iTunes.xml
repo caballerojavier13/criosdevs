@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+	<channel>
+
+		<title>Gamer Con Mate Podcast</title>
+
+		<link>http://gamerconmate.blogspot.com.ar/</link>
+
+		<language>es-ES</language>
+
+		<copyright>Gamer Con Mate</copyright>
+
+		<itunes:subtitle>Videojuegos, mates y mucho mas.</itunes:subtitle>
+
+		<itunes:author>Gamer Con Mate</itunes:author>
+
+		<itunes:summary>Bienvenidos al podcast de Gamer Con Mate Podcast, espacio donde exponemos nuestra filosofía fichinera con la compañía de un buen mate en forma de cuerdas vocales.
+		 
+		 Pasen, escuchen y cuenten que tal les parecio a gamerconmate@gmail.com</itunes:summary>
+
+		<description>Bienvenidos al podcast de Gamer Con Mate Podcast, espacio donde exponemos nuestra filosofía fichinera con la compañía de un buen mate en forma de cuerdas vocales.
+		 
+		 Pasen, escuchen y cuenten que tal les parecio a gamerconmate@gmail.com</description>
+
+		<itunes:owner>
+
+			<itunes:name>Jafi Bravin</itunes:name>
+
+			<itunes:email>jafidiesel@icloud.com</itunes:email>
+
+		</itunes:owner>
+
+		<itunes:image href="http://criosgames.com.ar/img/Logo600x600.jpg" />
+
+		<itunes:category text="Games &amp; Hobbies">
+
+			<itunes:category text="Video Games"/>
+
+		</itunes:category>
+
+		<itunes:category text="Games &amp; Hobbies"/>
+
+		<item>
+
+			<title>GCM - Podcast #3: GGJ 2014</title>
+
+			<itunes:author>Gamer Con MAte</itunes:author>
+
+			<itunes:subtitle>Entrevistas y debate.</itunes:subtitle>
+
+			<itunes:summary>Vuelven los mates, vuelve la filosofía gamer en formas de fichas podcastiles!
+			 En esta nueva edición de nuestro ,aún joven, podcast volvemos con DOS entrevistas a desarrolladores independientes de Santa FE: Mariano Jorge Obeid (Killabunnies) y con Eliseo Viola.
+			 
+			 Lo bueno, lo malo y lo hermoso de desarrollar un videojuego con ganas de querer partirte la cabeza contra un teclado Edition llamado Game Global Jam 2014.</itunes:summary>
+
+			<itunes:image href="http://criosgames.com.ar/img/Logo600x600.jpg" />
+
+			<enclosure url="http://www.ivoox.com/gcm-podcast-3-ggj-2014_mf_2880896_1.mp3" length="94549834" type="audio/mpeg" />
+
+			<pubDate>Mon, 24 Mar 2014 19:00:00 GMT</pubDate>
+
+			<itunes:duration>1:39:32</itunes:duration>
+			
+			
+			
+			<guid isPermaLink="true">http://www.ivoox.com/gcm-podcast-3-ggj-2014-audios-mp3_rf_2880896_1.html</guid>
+
+		</item>
+
+	</channel>
+
+</rss>
