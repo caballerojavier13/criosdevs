@@ -120,7 +120,7 @@
 	}
 
 	header p {
-		color: #999999;
+		color: black;
 		font-size: 1.25em;
 		position: relative;
 		margin-top: -1.25em;
@@ -567,8 +567,8 @@
 	#header {
 		text-align: center;
 		padding: 3em 0 0 0;
-		background-color: #fff;
-		background-image: url("images/bg02.png"), url("images/bg02.png"), url("images/bg01.png");
+		background-color: rgba(204, 204, 204, 0.09);
+		/*background-image: url("images/bg02.png"), url("images/bg02.png"), url("images/bg01.png");*/
 		background-position: top left,					top left,					top left;
 		background-size: 100% 6em,					100% 6em,					auto;
 		background-repeat: no-repeat,					no-repeat,					repeat;
@@ -603,7 +603,7 @@
 			width: 100%;
 			height: 0.75em;
 			background-color: #fb7d00;
-			background-image: url("images/bg01.png");
+			/*background-image: url("images/bg01.png");*/
 		}
 
 		#nav > ul {
@@ -651,7 +651,7 @@
 						left: 50%;
 						margin-left: -0.375em;
 						background-color: #fb7d00;
-						background-image: url("images/bg01.png");
+						/*background-image: url("images/bg01.png");*/
 					}
 
 					#nav > ul > li.current a {
@@ -670,11 +670,11 @@
 
 	.dropotron {
 		background-color: #333;
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
+		/*background-image: -moz-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
 		background-image: -o-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
-		background-image: linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
+		background-image: linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");*/
 		border-radius: 5px;
 		color: #fff;
 		min-width: 10em;
@@ -763,7 +763,7 @@
 
 		.wrapper.style2 {
 			background-color: #fff;
-			background-image: url("images/bg02.png"), url("images/bg03.png"), url("images/bg01.png");
+			/*background-image: url("images/bg02.png"), url("images/bg03.png"), url("images/bg01.png");*/
 			background-position: top left,						bottom left,					top left;
 			background-size: 100% 6em,						100% 6em,						auto;
 			background-repeat: no-repeat,						no-repeat,						repeat;
@@ -846,7 +846,7 @@
 
 	#title{
 			background-color: #fff;
-			background-image: url("images/bg02.png"), url("images/bg03.png"), url("images/bg01.png");
+			/*background-image: url("images/bg02.png"), url("images/bg03.png"), url("images/bg01.png");*/
 			background-position: top left,						bottom left,					top left;
 			background-size: 100% 6em,						100% 6em,						auto;
 			background-repeat: no-repeat,	no-repeat,	repeat;
