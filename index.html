@@ -22,12 +22,19 @@
 
 		<!-- Header -->
 			<div id="header">
+				<a href="index.html?id=#ourGames"><p>Nuestros juegos</p></a>
+				<a href="index.html?id=#aboutUs"><p>Sobre Crios Devs</p></a>
 						
 				<!-- Logo -->
-					<h1><a href="index.html" id="logo">Crios <em>Devs</em></a></h1>
+					<h1>Crios <em>Devs</em></h1>
 					<a href="index.html" id="logo"><img src="images/logo.png"/></a>
 				
-
+				<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li class="current"><a href="index.html">Inicio</a></li>
+							</ul>
+						</nav>
 			</div>
 
 			
@@ -39,62 +46,68 @@
 				</header>
 			</section>
 
-		<!-- Highlights -->
 
-			<section>
-						<div id="title">
-							<h3>Nuestros juegos</h3>
-						</div>
-			</section>
 			
 		<!-- Posts -->
 			<section class="wrapper style1">
 
 				<div class="container">
-					<div class="row">
-						<section class="6u">
-							<div class="box post">
-								<a href="paul-hero.html" class="image left"><img src="images/thumbnails/thumbnail_PH.png" alt="" /></a>
-								<div class="inner">
-									<h3>Paul Hero: End Polio Now!</h3>
-									<p>Un puzzle plataformero 2D donde tomas el papel de Paul que presta su ayuda a Rotary International para luchar contra la polio.</p>
+					<div id="ourGames">
+						<h2>Nuestros Juegos</h2>
+
+						<div class="row"> <!-- First Row_-->
+							<section class="6u">
+								<div class="box post">
+
+									<a href="paul-hero.html" class="image left"><img src="images/thumbnails/thumbnail_PaulHero_Portada_02.png" alt="" /></a>
+									<div class="inner">
+										<a href="paul-hero.html" ><h3>Paul Hero: End Polio Now!</h3></a>
+										<p>Un puzzle plataformero 2D donde tomas el papel de Paul que presta su ayuda a Rotary International para luchar contra la polio.</p>
+									</div>
+
 								</div>
-							</div>
-						</section>
+							</section>
+							
+							<section class="6u">
+								<div class="box post">
+
+									<a href="code-man.html" class="image left"><img src="images/thumbnails/thumbnail_CodeMan_Portada.png" alt="" /></a>
+									<div class="inner">
+										<a href="code-man.html"><h3>Code-Man</h3></a>
+										<p>Un juego de puzzle/aventura donde tenemos que ser tanto pacientes cómo ágiles a la hora de finalizar cada nivel. Existen un total de 24 niveles que podremos recorrer libremente utilizando Add-Ons.</p>
+									</div>
+
+								</div>
+							</section>
+						</div>
 						
-						<section class="6u">
-							<div class="box post">
-								<a href="rotary.html" class="image left"><img src="images/thumbnails/logo_rotary.png" alt="" /></a>
-								<div class="inner">
-									<h3>Grammar Zombie</h3>
-									<p>Grammar Zombie es un juego casual en el que utilizamos el conocimiento de gramática y las reglas ortográficas para combatir con nuestro héroe a los zombies que infectan las ciudades de mala ortografía.</p>
+						<h2>En desarrollo</h2>
+						<div class="row"><!-- Second Row -->
+							<section class="6u">
+								<div class="box post">
+
+									<a href="loquito-fire.html" class="image left"><img src="images/thumbnails/thumbnail_MomoSpace_Portada.png" alt="" /></a>
+									<div class="inner">
+										<a href="momo-space.html" ><h3>Momo Space</h3></a>
+										<p>Momo Space es un juego donde tienes que saltar de una orbita de un planeta a otro salvando pequeños momitos y buscando el agujero negro para volver a Momolandia.</p>
+									</div>
+
 								</div>
-							</div>
-						</section>
-					</div>
-					
-					<div class="row">
-						<section class="6u">
-							<div class="box post">
-								<a href="loquito-fire.html" class="image left"><img src="images/thumbnails/thumbnail_LF.png" alt="" /></a>
-								<div class="inner">
-									<h3>Momo Space</h3>
-									<p>Momo Space es un juego donde tienes que saltar de una orbita de un planeta a otro salvando pequeños momitos y buscando el agujero negro para volver a Momolandia.</p>
+							</section>
+							
+							<section class="6u">
+								<div class="box post">
+
+									<a href="grammar-zombie.html" class="image left"><img src="images/thumbnails/thumbnail_GrammarZombie_Portada.png" alt="" /></a>
+									<div class="inner">
+										<a href="grammar-zombie.html"><h3>Grammar Zombie</h3></a>
+										<p>Grammar Zombie es un juego casual en el que utilizamos el conocimiento de gramática y las reglas ortográficas para combatir con nuestro héroe a los zombies que infectan las ciudades de mala ortografía.</p>
+									</div>
+
 								</div>
-							</div>
-						</section>
-						
-						<section class="6u">
-							<div class="box post">
-								<a href="code-man.html" class="image left"><img src="images/thumbnails/thumbnail_CM.png" alt="" /></a>
-								<div class="inner">
-									<h3>Code-Man</h3>
-									<p>Un juego de puzzle/aventura donde tenemos que ser tanto pacientes cómo ágiles a la hora de finalizar cada nivel. Existen un total de 24 niveles que podremos recorrer libremente utilizando Add-Ons.</p>
-								</div>
-							</div>
-						</section>
-					</div>
-					
+							</section>
+						</div>
+					<div>
 				</div>
 			</section>
 			
@@ -102,10 +115,12 @@
 			<section class="wrapper style2">
 				<div class="container">
 					<header class="major">
-						<h2>Somos Crios Devs</h2>
-						<p>Un grupo entusiasta y apasionado tanto de los videojuegos como de la tecnología que está establecido en Mendoza, Argentina.
-						<br><br>Nuestro nombre y logo representa nuestra filosofía, no solo de trabajo, sino también de vida: la simplicidad, el detalle y el dar un alma a cada creación, ver más allá de lo establecido y aprovechar cada recurso. De la limitación viene la creatividad y damos con cada proyecto nuestro mejor esfuerzo, aprendiendo en el camino.
-						<br><br>Somos Crios, somos creadores.</p>
+						<div id="aboutUs">
+							<h2>Somos Crios Devs</h2>
+							<p>Un grupo entusiasta y apasionado tanto de los videojuegos como de la tecnología que está establecido en Mendoza, Argentina.
+							<br><br>Nuestro nombre y logo representa nuestra filosofía, no solo de trabajo, sino también de vida: la simplicidad, el detalle y el dar un alma a cada creación, ver más allá de lo establecido y aprovechar cada recurso. De la limitación viene la creatividad y damos con cada proyecto nuestro mejor esfuerzo, aprendiendo en el camino.
+							<br><br>Somos Crios, somos creadores.</p>
+						</div>
 					</header>
 				</div>
 			</section>

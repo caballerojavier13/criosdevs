@@ -44,7 +44,7 @@
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
 		color: #37c0fb;
 		text-decoration: none;
-		border-bottom: dotted 1px;
+		/*border-bottom: dotted 1px;*/
 	}
 
 		a:hover {
@@ -566,7 +566,7 @@
 
 	#header {
 		text-align: center;
-		padding: 3em 0 0 0;
+		padding: 0 0 0 0;
 		background-color: rgba(204, 204, 204, 0.09);
 		/*background-image: url("images/bg02.png"), url("images/bg02.png"), url("images/bg01.png");*/
 		background-position: top left,					top left,					top left;
@@ -585,6 +585,20 @@
 				letter-spacing: -0.025em;
 				border: 0;
 			}
+		#header a p{
+			display: block;
+			text-align: right;
+			font-style: bold;
+		}
+		#header a p:nth-child(1){
+			float: left;
+			color: blue;
+			margin-left: 15%;
+		}
+		#header a p:nth-child(2){
+			color: red;
+			margin-right: 15%;
+		}
 
 	#nav {
 		cursor: default;
@@ -595,6 +609,7 @@
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
 		background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
 		padding: 0;
+		display: none; /* Used to hide the nav bar on +850px wide */
 	}
 
 		#nav:after {
