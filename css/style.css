@@ -585,19 +585,16 @@
 				letter-spacing: -0.025em;
 				border: 0;
 			}
-		#header a p{
-			display: block;
-			text-align: right;
-			font-style: bold;
+		#header a{
+
 		}
-		#header a p:nth-child(1){
+		#header a:nth-child(1){
 			float: left;
-			color: blue;
 			margin-left: 15%;
 		}
-		#header a p:nth-child(2){
-			color: red;
+		#header a:nth-child(2){
 			margin-right: 15%;
+			float: right;
 		}
 
 	#nav {
@@ -883,3 +880,12 @@
 		list-style:initial;
 		list-style-position: inside;
 	}	
+
+	.line-separator{
+
+		height:2px;
+		margin-bottom: 2em;
+		background:#717171;
+		border-top:1px solid #313030;
+		margin-top: -2em;
+		}
