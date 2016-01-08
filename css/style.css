@@ -42,13 +42,13 @@
 		-o-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
-		color: #37c0fb;
+		color: rgb(251, 125, 0);
 		text-decoration: none;
 		/*border-bottom: dotted 1px;*/
 	}
 
 		a:hover {
-			color: rgb(251, 125, 0);
+			color: rgb(41, 189, 236);
 			border-bottom-color: transparent;
 		}
 
@@ -566,7 +566,7 @@
 
 	#header {
 		text-align: center;
-		padding: 0 0 0 0;
+		padding: 1em 0 1em 0;
 		background-color: rgba(204, 204, 204, 0.09);
 		/*background-image: url("images/bg02.png"), url("images/bg02.png"), url("images/bg01.png");*/
 		background-position: top left,					top left,					top left;
@@ -585,8 +585,13 @@
 				letter-spacing: -0.025em;
 				border: 0;
 			}
-		#header a{
 
+		#header a h3{
+			margin-top: 1em;
+			color: rgb(251, 125, 0)	;
+		}
+		#header a h3:hover{
+				color: rgb(41, 189, 236);
 		}
 		#header a:nth-child(1){
 			float: left;
@@ -818,15 +823,15 @@
 
 	#footer {
 		padding: 4em 0 8em 0;
+		font-weight: bold;
 	}
 
 		#footer a {
-			color: inherit;
 			border-bottom-color: rgba(71, 71, 71, 0.25);
 		}
 
 			#footer a:hover {
-				color: rgb(251, 125, 0);
+				color: rgb(41, 189, 236);
 				border-bottom-color: transparent;
 			}
 
@@ -889,3 +894,7 @@
 		border-top:1px solid #313030;
 		margin-top: -2em;
 		}
+	.twitter-follow-button {
+		margin-top: 1em;
+		margin-left: 2em;
+	}
