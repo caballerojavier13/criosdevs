@@ -586,6 +586,10 @@
 				border: 0;
 			}
 
+		#header a img{
+			width: 15%;
+		}
+
 		#header a h3{
 			margin-top: 1em;
 			color: rgb(251, 125, 0)	;
@@ -601,6 +605,7 @@
 			margin-right: 15%;
 			float: right;
 		}
+
 
 	#nav {
 		cursor: default;
@@ -859,6 +864,7 @@
 			font-size: 0.9em;
 		}
 
+
 /* Special style */
 
 	#title{
@@ -897,4 +903,30 @@
 	.twitter-follow-button {
 		margin-top: 1em;
 		margin-left: 2em;
+	}
+	#text-img-normal{
+		font-weight: 600;
+		font-size: 2em;
+		margin-left: 1em;
+	}
+
+	#text-img-normal img{
+		width:inherit !important;
+	}
+
+	#text-img-small{
+		font-weight: 600;
+		font-size: 125%;
+	}
+
+	#text-img-small img{
+		width:inherit !important;
+	}
+
+	#playlinks ul li{
+		margin: 7px 0 7px 0;
+	}
+
+	#playlinks ul li a img{
+		width:55%;
 	}
