@@ -26,67 +26,62 @@
 	</socials>
 
 	<description>	
-		ENG---Estudio de desarrolladores independientes, cuya filosofía se apoya en la continua creación e incentivo de la industria local.
+		Paul Hero is an adventure platfomer where you can be the intrepid Paul and fight against the polio by avoiding obstacles, testing your reflexes, defying the laws of gravity and delivering vaccines to eradicate this horrible disease in the world.
 	</description>	
 		
 	<histories>
 		
 		<history>
-			<header>Pon a prueba tus reflejos y supera los desafíos en este puzzle plataformero de aventura 2D. Embárcate junto a Paul en sus aventuras y combate la polio entregando los medicamentos enviados por Rotary International. </header>
+			<header>Test your reflexes and overcome the challenges in this 2D platformer puzzle adventure. Embark with Paul on his adventures and combats polio delivering the vaccines sent by Rotary International.</header>
 		</history>
 		
 		<history>
-			<text>Rotary International es una organización que, entre sus objetivos principales, está la de erradicar la polio del mundo, una horrible enfermedad. Hay una isla del Pacífico donde aún existe la enfermedad pero que nadie se anima a ir, ya que los que fueron...nunca han vuelto. </text>
+			<text>Paul is an adventurer who offers his help to whoever needs it. That is why when Rotary International organization asks him to exterminate the polio (a horrible disease) in a remote island of the Pacific, he accepts without hesitation. Rotary has spent years of fighting to eradicate the disease of the world and still there are a few zones affected, the island is one of them. Unfortunately, those that have gone there to take the medicine...never returned. </text>
 		</history>
 		
 		<history>
-			<text>Rotary contacta a Paul, un aventurero que siempre busca tiempo para ayudar a quien lo necesita y acepta la misión sin titubear, por lo que sube a un avión lleno de cajas con vacunas contra la polio. Luego de unas horas de vuelo divisa la isla, pero algo entre las sombras con una máscara en forma de calavera levanta sus manos y un rayo cae de la nada sobre el avión.</text>
+			<text>Our adventurer boards the plain full of boxes with vaccine against the polio. After a few hours of flight, he sees the island but something between the shadows with a mask, which has the form of skull, raise its hands and a lightning strikes the plane.</text>
 		</history>
 		
 		<history>
-			<text>Paul por segundos logra salir y abrir su paracaídas mientras ve como las diferentes caja con la vacuna caen en diferente sitios de la isla,, al aterrizar comienza a notar que hay diferentes trampas para mantener a raya los de afuera y que nadie pueda ayudar a los habitantes ¡Paul debe poder encontrar la manera de entregar las vacunas y salir de la isla con vida!</text>
+			<text>Fortunately, Paul gets out of it with his parachute while he sees how the boxes with the vaccine fall down in different sites of the island. When he lands on, he notices that there are various traps to keep away the outsiders that want to help the residents. Paul has to find the way of delivering the vaccines and get out of the island alive!</text>
 		</history>
 		
 		<history>						
-			<header>Crios Devs y Rotary</header>
-			<text>				A principios del 2014, Rotary International decidió nuclear a un conjunto de clubes en Argentina con el nombre Rotary Distrito 4849. Con motivo de expandir el trabajo del Rotary en todo el mundo, el Distrito 4849 se contactó con Crios Devs, con la finalidad de realizar un videojuego que sea gratuito, accesible, divertido, atrayendo la atención del público hacia la organización y su lucha contra la erradicación de la  poliomielitis.				La primera parte del juego se terminó de desarrollar a principios de Marzo coincidiendo con la llegada del presidente de Rotary International (2014-2015) Gary Huang.			</text>
+			<header>How Paul hero: end polio now started.</header>
+			<text>Early in 2014, Rotary International decided to gather a group of clubs in Argentina with the name Rotary Distritict 4849. Due to expand the work of Rotary worldwide, the District contacted Crios Devs in order to make a video game that would be free, accessible, fun and catch the attention of the public towards the organization and its fight against the eradication of the polio.</text>
+			<text>
+				The first part of the videogame was completely developed early in March with the arrival of the president of Rotary International, Gary Huang.
+			</text>
 		</history>
 	
 		<history>
-			<header>Datos técnicos</header>
-			<text>100% Gratis y web</text>
+			<header>Game features</header>
+			<text>Free and web.</text>
 		</history>
 
 		<history>
-			<text>¡Más 60 niveles divididos en 6 sectores llenos de desafíos y obstáculos!</text>
+			<text>More than than 60 levels divided in 6 sections full of challenges and obstacles.</text>
 		</history>
 		
 		<history>
-			<text>Más de 6 horas de juego para terminarlo.</text>
+			<text>More than 6 hours of gameplay to end it.</text>
 		</history>
 		
 		<history>
-			<text>¡Primer videojuego oficial de Rotary International de la historia!</text>
+			<text>First official videogame of the story of Rotary International</text>
 		</history>
 		
 		<history>
-			<text>La caja de medicamentos sirven en algunos casos para protegerse o como plataforma.</text>
+			<text>Original soundtrack composed of exclusive scores</text>
 		</history>
 		
 		<history>
-			<text>Soundtrack original compuesto de forma exclusiva desde partituras.</text>
+			<text>For all ages and genders, with a balanced difficulty curve.</text>
 		</history>
 		
 		<history>
-			<text>Para todas las edades y géneros, con una curva de dificultad equilibrada.</text>
-		</history>
-		
-		<history>
-			<text>Gratis y web.</text>
-		</history>
-				
-		<history>
-			<text>Ayuda a difundir e informar una actividad humanitaria.</text>
+			<text>Help to spread and inform humanitarian actions.</text>
 		</history>
 		
 	</histories>
@@ -104,17 +99,31 @@
 	
 	<awards>
 		<award>
-			<description>Diploma de Honor por la participación en el desarrollo y presentación, del primer videojuego de Rotary International, "Paul Hero: End Polio Now!"</description>
-			<info>Abril 2015</info>
+			<description>Honorary Diploma due to the participation in the development and presentation of the first video game of Rotary International, Paul Hero: End polio now!</description>
+			<info>April 2015</info>
 		</award>
 	</awards>
 	
 	<quotes>
 		<quote>
-			<description>Entrevista Gameindustria, España</description>
-			<name>Gamedustria</name>
-			<website>www.Gamedustria.com</website>
-			<link>http://gamedustria.com/2015/entrevistamos-a-crios-devs-un-estudio-creador-argentino</link>
+			<description>..el éxito depende de la precisión de nuestros saltos, premisa videojueguil clásica pero efectiva.</description>
+			<name>Checkpoint</name>
+			<website>http://www.checkpointvg.com/</website>
+			<link>http://www.checkpointvg.com/?page_id=5501</link>
+		</quote>
+
+		<quote>
+			<description>Paul Hero atrae porque le acompaña la buena música, del palo centroamericano...</description>
+			<name>Cubik</name>
+			<website>http://www.theCubik.com/</website>
+			<link>http://thecubik.com/2015/09/paul-hero-end-polio-now/</link>
+		</quote>
+
+		<quote>
+			<description>..reminds me of some old school platformer games like Pitfall and Bubble Bobble</description>
+			<name>PlayPlayFun</name>
+			<website>http://www.PlayPlayFun.com/</website>
+			<link>http://playplayfun.com/paul-hero-end-polio-now-game/</link>
 		</quote>
 	</quotes>	
 	
@@ -123,11 +132,6 @@
 		<additional>
 			<title>GameJolt</title>
 			<link>www.gamejolt.com/games/platformer/paul-hero-end-polio-now/36432/</link>
-		</additional>
-
-		<additional>
-			<title>Wibbly</title>
-			<link>http://wibbly.net/tienda/paul-hero-end-polio-now/</link>
 		</additional>
 		
 		<additional>
@@ -166,6 +170,7 @@
 
 		<credit>
 			<person>Álvaro Cristóbal Stöckle Márquez</person>
+			<website>https://soundcloud.com/alvaro-stockle</website>
 			<role>Music and Sound Effects</role>
 		</credit>		
 		
@@ -178,7 +183,7 @@
 		</contact>
 		
 		<contact>
-			<name>Paul Hero en Facebook</name>
+			<name>Paul Hero on Facebook</name>
 			<link>www.facebook.com/PaulHeroepn</link>
 		</contact>
 

@@ -115,10 +115,24 @@
 	
 	<quotes>
 		<quote>
-			<description>Entrevista Gameindustria, España</description>
-			<name>Gamedustria</name>
-			<website>www.Gamedustria.com</website>
-			<link>http://gamedustria.com/2015/entrevistamos-a-crios-devs-un-estudio-creador-argentino</link>
+			<description>..el éxito depende de la precisión de nuestros saltos, premisa videojueguil clásica pero efectiva.</description>
+			<name>Checkpoint</name>
+			<website>http://www.checkpointvg.com/</website>
+			<link>http://www.checkpointvg.com/?page_id=5501</link>
+		</quote>
+
+		<quote>
+			<description>Paul Hero atrae porque le acompaña la buena música, del palo centroamericano...</description>
+			<name>Cubik</name>
+			<website>http://www.theCubik.com/</website>
+			<link>http://thecubik.com/2015/09/paul-hero-end-polio-now/</link>
+		</quote>
+
+		<quote>
+			<description>..reminds me of some old school platformer games like Pitfall and Bubble Bobble</description>
+			<name>PlayPlayFun</name>
+			<website>http://www.PlayPlayFun.com/</website>
+			<link>http://playplayfun.com/paul-hero-end-polio-now-game/</link>
 		</quote>
 	</quotes>	
 	
@@ -127,11 +141,6 @@
 		<additional>
 			<title>GameJolt</title>
 			<link>www.gamejolt.com/games/platformer/paul-hero-end-polio-now/36432/</link>
-		</additional>
-
-		<additional>
-			<title>Wibbly</title>
-			<link>http://wibbly.net/tienda/paul-hero-end-polio-now/</link>
 		</additional>
 		
 		<additional>
@@ -170,6 +179,7 @@
 
 		<credit>
 			<person>Álvaro Cristóbal Stöckle Márquez</person>
+			<website>https://soundcloud.com/alvaro-stockle</website>
 			<role>Music and Sound Effects</role>
 		</credit>		
 		
