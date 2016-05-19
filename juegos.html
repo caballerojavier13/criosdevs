@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-	
+
 		<title>Juegos</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
@@ -18,36 +18,60 @@
 			<link rel="stylesheet" href="css/style.css" />
 			<link rel="stylesheet" href="css/style-wide.css" />
 		</noscript>
+		<script>window.twttr = (function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0],
+		    t = window.twttr || {};
+		  if (d.getElementById(id)) return t;
+		  js = d.createElement(s);
+		  js.id = id;
+		  js.src = "https://platform.twitter.com/widgets.js";
+		  fjs.parentNode.insertBefore(js, fjs);
+
+		  t._e = [];
+		  t.ready = function(f) {
+		    t._e.push(f);
+		  };
+
+		  return t;
+		}(document, "script", "twitter-wjs"));</script>
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
-		
 	</head>
 	<body>
 
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
 		<!-- Header -->
 			<div id="header">
-						
+				<a href="index.html?id=#nuestrosJuegos"><h3>nuestros juegos</h3></a>
+				<a href="index.html?id=#sobreCriosDevs"><h3>sobre crios devs</h3></a>
+
+
 				<!-- Logo -->
 					<h1><a href="index.html" id="logo">Crios <em>Devs</em></a></h1>
 					<a href="index.html" id="logo"><img src="images/logo.png"/></a>
-				
+
 				<!-- Nav -->
-					<nav id="nav">
-						<ul>
-							<li>
-								<a href="index.html">Inicio</a>
-							</li>
-							<li class="current">
-								<a href="juegos.html">Juegos</a>
-							</li>
-							<li>
-								<a href="desarrolloWeb.html">Desarrollo Web</a>
-							</li>
-							<li><a href="http://gamerconmate.blogspot.com.ar/" target="_blank">Gamer Con Mate</a></li>
-						</ul>
-					</nav>
+				<nav id="nav">
+					<ul>
+						<li class="current">
+							<a href="index.html">Inicio</a>
+						</li>
+						<li>
+							<a href="juegos.html">Juegos</a>
+						</li>
+					</ul>
+				</nav>
+
 			</div>
 
-			
+
 		<!-- Posts -->
 			<section class="wrapper style1">
 
@@ -55,75 +79,86 @@
 					<div class="row">
 						<section class="6u">
 							<div class="box post">
-								<a href="paul-hero.html" class="image left"><img src="images/thumbnails/thumbnail_PH.png" alt="" /></a>
+								<a href="paul-hero.html" class="image left"><img src="images/thumbnails/thumbnail_PaulHero_Portada_02.png" alt="" /></a>
 								<div class="inner">
-									<h3>Paul Hero: End Polio Now!</h3>
+									<a href="paul-hero.html"><h3>Paul Hero: End Polio Now!</h3></a>
 									<p>Un puzzle plataformero 2D donde tomas el papel de Paul que presta su ayuda a Rotary International para luchar contra la polio.</p>
 								</div>
 							</div>
 						</section>
-						
+
 						<section class="6u">
 							<div class="box post">
-								<a href="code-man.html" class="image left"><img src="images/thumbnails/thumbnail_CM.png" alt="" /></a>
+								<a href="code-man.html" class="image left"><img src="images/thumbnails/thumbnail_CodeMan_Portada.png" alt="" /></a>
 								<div class="inner">
-									<h3>Code-Man</h3>
+									<a href="code-man.html"><h3>Code-Man</h3></a>
 									<p>Un juego de puzzle/aventura donde tenemos que ser tanto pacientes cómo ágiles a la hora de finalizar cada nivel. Existen un total de 24 niveles que podremos recorrer libremente utilizando Add-Ons.</p>
 								</div>
 							</div>
 						</section>
 					</div>
-					
+
 					<div class="row">
-						<section class="6u">
-							<div class="box post">
-								<a href="loquito-fire.html" class="image left"><img src="images/thumbnails/thumbnail_LF.png" alt="" /></a>
-								<div class="inner">
-									<h3>Loquito Fire</h3>
-									<p>Prototipo de juego realizado para la Jam 3MM del 2013.</p>
-								</div>
+					<section class="6u">
+						<div class="box post">
+							<a  class="image left"><img src="images/thumbnails/thumbnail_GrammarZombie_Portada.png" alt="" /></a>
+							<div class="inner">
+								<h3>Grammar Zombie</h3>
+								<p>Grammar Zombie es un juego casual en el que utilizamos el conocimiento de gramática y las reglas ortográficas para combatir con nuestro héroe a los zombies que infectan las ciudades de mala ortografía.</p>
 							</div>
-						</section>
-						
-						<section class="6u">
-							<div class="box post">
-								<a href="sammy-killer.html" class="image left"><img src="images/thumbnails/thumbnail_SK.jpg" alt="" /></a>
-								<div class="inner">
-									<h3>Sammy Killer</h3>
-									<p>Este es un juego al estilo "Mata Marcianos" que hace referencia de una forma delirante y humorística a dos tribus urbanas: los "Metaleros" y los "Floggers" (aquí llamados "Flashings").</p>
-								</div>
+						</div>
+					</section>
+
+					<section class="6u">
+						<div class="box post">
+							<a class="image left"><img src="images/thumbnails/thumbnail_MomoSpace_Portada.png" alt="" /></a>
+							<div class="inner">
+								<h3>Momo Space</h3>
+								<p>Momo Space es un juego donde tienes que saltar de una orbita de un planeta a otro salvando pequeños momitos y buscando el agujero negro para volver a Momolandia.</p>
 							</div>
-						</section>
-					</div>
-					
+						</div>
+					</section>
+				</div>
+
+
 				</div>
 			</section>
 
-		<!-- Footer -->
-			<div id="footer">
-				<div class="container">
-					<div class="row ">
-						<div class="6u">
-							<div class="row collapse-at-3">
-								<section class="6u">
-									<ul class="links">
-										<li><a href="http://gamejolt.com/profile/crios-devs/20032/" target="_blank"><i>Crios Devs en GameJolt</i></a></li>
-										<li><a href="http://wibbly.net/tienda/paul-hero-end-polio-now//" target="_blank"><i>Crios Devs en Wibbly</i></a></li>
-										<li><a href="http://criosdevs.newgrounds.com/" target="_blank"><i>Crios Devs en Newgrounds</i></a></li>
-									</ul>
-								</section>
-								
-								<section class="6u">
-									<ul class="links">
-										<li><a href="http://www.kongregate.com/accounts/CriosDevs" target="_blank"><i>Crios Devs en Kongregate</i></a></li>
-										<li><a href="http://www.indiedb.com/company/crios-devs" target="_blank"><i>Crios Devs en IndieDB</i></a></li>
-										<li><a href="mailto:contact@criosdevs.com"><i><p>contact@criosdevs.com</p></i></a></li>
-									</ul>
-								</section>
+			<!-- Footer -->
+				<div id="footer">
+					<div class="container">
+						<div class="row ">
+							<div class="12u">
+								<div class="row">
+										<section class="4u">
+											<ul class="links">
+												<li><a href="http://gamejolt.com/profile/crios-devs/20032/" target="_blank"><i>Crios Devs en GameJolt</i></a></li>
+												<li><a href="http://criosdevs.newgrounds.com/" target="_blank"><i>Crios Devs en Newgrounds</i></a></li>
+											</ul>
+										</section>
+
+										<section class="4u">
+											<ul class="links">
+												<li><a href="http://www.kongregate.com/accounts/CriosDevs" target="_blank"><i>Crios Devs en Kongregate</i></a></li>
+												<li><a href="http://www.indiedb.com/company/crios-devs" target="_blank"><i>Crios Devs en IndieDB</i></a></li>
+												<li><a href="mailto:contact@criosdevs.com"><i><p>contact@criosdevs.com</p></i></a></li>
+											</ul>
+										</section>
+
+
+										<section class="4u">
+												<div class="fb-page" data-href="https://www.facebook.com/criosdevs" data-width="220px" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/criosdevs"><a href="https://www.facebook.com/criosdevs">Crios Devs</a></blockquote></div></div>
+
+												<a class="twitter-follow-button"
+												  href="https://twitter.com/CriosDevs"
+												  data-show-count="false"
+												  data-size="large">
+												Follow @CriosDevs</a>
+										</section>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
 
 				<!-- Icons -->
 					<ul class="icons">

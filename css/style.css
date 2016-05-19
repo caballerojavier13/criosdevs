@@ -933,5 +933,7 @@
 
 	#big-center-h1{
 		text-align: center;
-
+		color:inherit;
+		font-size: 2.25em;
+		border-bottom: solid 1px #e0e0e0;
 	}
