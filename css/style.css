@@ -239,7 +239,9 @@
 
 		.image img {
 			display: block;
-			border-radius: 5px;
+			border-radius: 100px;
+			-webkit-border-radius: 100px;
+			-moz-border-radius: 100px;
 		}
 
 		.image.left {
@@ -579,33 +581,37 @@
 			margin: 0;
 			display:none;
 		}
-
 			#header h1 a {
 				font-size: 1.5em;
 				letter-spacing: -0.025em;
 				border: 0;
 			}
-
 		#header a img{
 			width: 15%;
 		}
-
-		#header a h3{
+		#header a h4{
 			margin-top: 1em;
 			color: rgb(251, 125, 0)	;
 		}
-		#header a h3:hover{
+		#header a h4:hover{
 				color: rgb(41, 189, 236);
 		}
 		#header a:nth-child(1){
 			float: left;
-			margin-left: 15%;
+			margin-left: 10%;
 		}
 		#header a:nth-child(2){
-			margin-right: 15%;
+			float: left;
+			margin-left: 2%;
+		}
+		#header a:nth-child(3){
+			margin-right: 10%;
 			float: right;
 		}
-
+		#header a:nth-child(4){
+			float: right;
+			margin-right: 2%;
+		}
 
 	#nav {
 		cursor: default;
