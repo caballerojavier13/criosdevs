@@ -12,34 +12,6 @@
 		<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
 		<meta property="og:image" content="../images/logo.png" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
-		<script src="../js/jquery.min.js"></script>
-		<script src="../js/jquery.dropotron.min.js"></script>
-		<script src="../js/skel.min.js"></script>
-		<script src="../js/skel-layers.min.js"></script>
-		<script src="../js/init.js"></script>
-		<script>window.twttr = (function(d, s, id) {
-		  var js, fjs = d.getElementsByTagName(s)[0],
-		    t = window.twttr || {};
-		  if (d.getElementById(id)) return t;
-		  js = d.createElement(s);
-		  js.id = id;
-		  js.src = "https://platform.twitter.com/widgets.js";
-		  fjs.parentNode.insertBefore(js, fjs);
-
-		  t._e = [];
-		  t.ready = function(f) {
-		    t._e.push(f);
-		  };
-		  return t;
-		}(document, "script", "twitter-wjs"));</script>
-
-		<script>(function(d, s, id) {
-			var js, fjs = d.getElementsByTagName(s)[0];
-			if (d.getElementById(id)) return;
-			js = d.createElement(s); js.id = id;
-			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
-			fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));</script>
 
 	</head>
 	<body>
@@ -85,7 +57,11 @@
 
 				<div class="container">
 					<div id="ourGames">
-						<h2>Finished Games</h2>
+						<header class="major">
+							<h1>Our Games</h1>
+						</header>
+
+						<h2>Finished</h2>
 
 						<div class="row"> <!-- First Row_-->
 							<section class="6u">
@@ -109,11 +85,11 @@
 							</section>
 						</div>
 
-						<h2>WIP Games</h2>
+						<h2>Work In Progress</h2>
 						<div class="row"><!-- Second Row -->
 							<section class="6u">
 								<div class="box post">
-									<a  class="image left"><img src="../images/thumbnails/thumbnail_MomoSpace_Portada.png" alt="" /></a>
+									<a class="image left"><img src="../images/thumbnails/thumbnail_MomoSpace_Portada.png" alt="" /></a>
 									<div class="inner">
 										<h3>Momo Planet</h3>
 										<p>Momo Planet it's a casual 2D where we control a little creature inside its own conscience that travelling through planets,jumping obstacles and eating chocolate coins we have to find his truly being.</p>
@@ -123,9 +99,9 @@
 
 							<section class="6u">
 								<div class="box post">
-									<a  class="image left"><img src="../images/thumbnails/thumbnail_GrammarZombie_Portada.png" alt="" /></a>
+									<a href="www.facebook.com/grammarzombie" target="_blank" class="image left"><img src="../images/thumbnails/thumbnail_GrammarZombie_Portada.png" alt="" /></a>
 									<div class="inner">
-										<h3>Grammar Zombie</h3>
+										<a href="href=www.facebook.com/grammarzombie" target="_blank"><h3>Grammar Zombie</h3></a>
 										<p>Grammar Zombie it's a casual game that we use grammatical rules to help our hero to fight the zombies that have affected all the cities.</p>
 									</div>
 								</div>
@@ -137,7 +113,9 @@
 			<section class="wrapper style1">
 				<div class="container">
 					<div id="webPortfolio">
-						<h2>Webs Developed</h2>
+						<header class="major">
+							<h1>Portfolio Web</h1>
+						</header>
 
 						<div class="row"> <!-- First Row_-->
 							<section class="6u">
@@ -190,9 +168,9 @@
 							<div class="row"> <!-- First Row_-->
 								<section class="6u">
 									<div class="box post" id="team">
-										<a class="image left"><img src="../images/team/alvaro.jpg" alt="" /></a>
+										<a href="https://soundcloud.com/alvaro-stockle" target="_blank" class="image left"><img src="../images/team/alvaro.jpg" alt="" /></a>
 										<div class="inner">
-											<h3>Álvaro Stöckle Márquez</h3>
+											<a href="https://soundcloud.com/alvaro-stockle" target="_blank"><h3>Álvaro Stöckle Márquez</h3></a>
 											<p>Music and Sound Effects</p>
 										</div>
 									</div>
@@ -222,9 +200,9 @@
 
 								<section class="6u">
 									<div class="box post" id="team">
-										<a  class="image left"><img src="../images/team/momfus.jpg" alt="" /></a>
+										<a href="https://ar.linkedin.com/in/julianmunozvelazquez" target="_blank" class="image left"><img src="../images/team/momfus.jpg" alt="" /></a>
 										<div class="inner">
-											<h3>Julián Muñoz Velasquez</h3>
+											<a href="https://ar.linkedin.com/in/julianmunozvelazquez" target="_blank"><h3>Julián Muñoz Velasquez</h3></a>
 											<p>Programmer, Game Designer.</p>
 										</div>
 									</div>
@@ -234,9 +212,9 @@
 							<div class="row"><!-- Third Row -->
 								<section class="6u">
 									<div class="box post" id="team">
-										<a class="image left"><img src="../images/team/jafi.jpg" alt="" /></a>
+										<a href="https://ar.linkedin.com/in/javierbravin" target="_blank" class="image left"><img src="../images/team/jafi.jpg" alt="" /></a>
 										<div class="inner">
-											<h3>Jafi Bravin</h3>
+											<a href="https://ar.linkedin.com/in/javierbravin" target="_blank"><h3>Jafi Bravin</h3></a>
 											<p>Web developer, Level Designer, Producer, Yerbamate Supplier.</p>
 										</div>
 									</div>
@@ -252,6 +230,22 @@
 									</div>
 								</section>
 							</div>
+
+							<h1 id="big-center-h1">Colaborators</h1>
+
+							<div class="row"> <!-- Colaborators Row_-->
+
+								<section class="6u">
+									<div class="box post" id="team">
+										<a class="image left"><img src="../images/team/tito.jpg" alt="" /></a>
+										<div class="inner">
+											<h3>Javier Hernan Caballero</h3>
+											<p>Programming.</p>
+										</div>
+									</div>
+								</section>
+							</div>
+
 						<div>
 					</div>
 				</section>
@@ -296,9 +290,41 @@
 					<ul class="icons">
 						<li><a href="https://www.facebook.com/CriosDevs" class="icon fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
 						<li><a href="https://www.twitter.com/CriosDevs" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+						<li><a href="https://www.linkedin.com/company/10866845?trk=tyah&trkInfo=clickedVertical%3Acompany%2CentityType%3AentityHistoryName%2CclickedEntityId%3Acompany_10866845%2Cidx%3A1"class="icon fa-linkedin" target="_blank"><span class="label">Linkedin</span></li></a>
 						<li><a href="https://github.com/jafidiesel/criosdevs" class="icon fa-github" target="_blank"><span class="label">Github</span></a></li>
 					</ul>
 
 			</div>
+
+
+			<script src="../js/jquery.min.js"></script>
+			<script src="../js/jquery.dropotron.min.js"></script>
+			<script src="../js/skel.min.js"></script>
+			<script src="../js/skel-layers.min.js"></script>
+			<script src="../js/init.js"></script>
+			<script>window.twttr = (function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0],
+					t = window.twttr || {};
+				if (d.getElementById(id)) return t;
+				js = d.createElement(s);
+				js.id = id;
+				js.src = "https://platform.twitter.com/widgets.js";
+				fjs.parentNode.insertBefore(js, fjs);
+
+				t._e = [];
+				t.ready = function(f) {
+					t._e.push(f);
+				};
+				return t;
+			}(document, "script", "twitter-wjs"));</script>
+
+			<script>(function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) return;
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));</script>
+
 	</body>
 </html>
